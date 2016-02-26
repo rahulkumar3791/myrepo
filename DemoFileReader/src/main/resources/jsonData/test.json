@@ -1,0 +1,14 @@
+{
+    "locations": [
+        {
+            "lat": "23.053",
+            "long": "72.629",
+            "location": "ABC",
+            "address": "DEF",
+            "city": "Ahmedabad",
+            "state": "Gujrat",
+            "phonenumber": "123456"
+        }
+       
+    ]
+}
